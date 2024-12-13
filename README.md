@@ -7,7 +7,7 @@
 The purpose of this code is to build a command-line application that uses the inquirer package and NPM to create, perform actions, and view the details submitted or already existing of a car
 
 ## Installation
-Install node and required javascript files to work the command line application built using the dependency inquirer.
+Install node and required TypeScript files and dependancies to work the command line application built using the dependency inquirer.
 
 ## Table of Contents
 
