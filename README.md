@@ -5,6 +5,7 @@
 ## Description
 
 The purpose of this code is to build a command-line application that uses the inquirer package and NPM to create, perform actions, and view the details submitted or already existing of a car
+Provided is the link to the walk through video https://app.screencastify.com/v2/manage/videos/WDC97nLq7jaXzmZemH78
 
 ## Installation
 Install node and required TypeScript files and dependancies to work the command line application built using the dependency inquirer.
